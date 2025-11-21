@@ -1,6 +1,6 @@
-Country,Code,Price
-United States,US,15
-United Kingdom,GB,20
-Malaysia,MY,10
-Canada,CA,18
-Singapore,SG,20
+Country,Code,Shipping,BookPrice,Currency
+United States,US,15,25,USD
+United Kingdom,GB,10,20,GBP
+Malaysia,MY,10,80,MYR
+Canada,CA,18,35,CAD
+Singapore,SG,15,35,SGD
