@@ -1,54 +1,54 @@
-Country,Code,Shipping,BookPrice,Currency
-Malaysia,MY,10,80,MYR
-Singapore,SG,20,35,SGD
-United States,US,50,25,USD
-United Kingdom,GB,45,20,GBP
-Canada,CA,55,32,CAD
-Australia,AU,40,35,AUD
-Japan,JP,35,3000,JPY
-South Korea,KR,35,32000,KRW
-China,CN,30,80,CNY
-Hong Kong,HK,30,150,HKD
-Taiwan,TW,30,600,TWD
-India,IN,35,800,INR
-Indonesia,ID,25,150000,IDR
-Thailand,TH,25,500,THB
-Vietnam,VN,25,300000,VND
-Philippines,PH,25,800,PHP
-New Zealand,NZ,50,40,NZD
-Germany,DE,45,22,EUR
-France,FR,45,22,EUR
-Italy,IT,45,20,EUR
-Spain,ES,45,20,EUR
-Netherlands,NL,45,22,EUR
-Switzerland,CH,50,30,CHF
-Sweden,SE,50,250,SEK
-Norway,NO,50,250,NOK
-Denmark,DK,50,180,DKK
-Ireland,IE,45,22,EUR
-Belgium,BE,45,22,EUR
-Austria,AT,45,22,EUR
-Portugal,PT,45,20,EUR
-Finland,FI,50,22,EUR
-Russia,RU,60,1500,RUB
-Turkey,TR,50,400,TRY
-Saudi Arabia,SA,55,80,SAR
-United Arab Emirates,AE,55,80,AED
-Qatar,QA,55,80,QAR
-South Africa,ZA,65,350,ZAR
-Brazil,BR,70,100,BRL
-Mexico,MX,60,400,MXN
-Argentina,AR,70,15000,ARS
-Chile,CL,70,25000,CLP
-Colombia,CO,70,90000,COP
-Egypt,EG,60,600,EGP
-Nigeria,NG,65,15000,NGN
-Kenya,KE,65,2500,KES
-Pakistan,PK,40,2500,PKR
-Bangladesh,BD,40,1200,BDT
-Sri Lanka,LK,40,4000,LKR
-Poland,PL,50,80,PLN
-Czech Republic,CZ,50,500,CZK
-Hungary,HU,50,7000,HUF
-Romania,RO,50,90,RON
-Greece,GR,50,20,EUR
+Country,Code,BookPrice,Currency,Regular Post,Priority Post,Express Courier Service
+Malaysia,MY,88,MYR,10,20,33
+Singapore,SG,28.99,SGD,10,10,17
+United States,US,19.99,USD,15,17,28
+United Kingdom,GB,19,GBP,10,13,21
+Canada,CA,32,CAD,15,83,138
+Australia,AU,35,AUD,40,20,33
+Japan,JP,2999,JPY,35,3150,5250
+South Korea,KR,32000,KRW,35,31500,52500
+China,CN,80,CNY,30,42,70
+Hong Kong,HK,150,HKD,30,75,125
+Taiwan,TW,600,TWD,30,270,450
+India,IN,800,INR,35,345,575
+Indonesia,ID,354000,IDR,25,248000,413000
+Thailand,TH,500,THB,25,405,675
+Vietnam,VN,300000,VND,25,98000,163000
+Philippines,PH,800,PHP,25,240,400
+New Zealand,NZ,40,NZD,50,23,38
+Germany,DE,22,EUR,45,15,25
+France,FR,22,EUR,45,15,25
+Italy,IT,20,EUR,45,15,25
+Spain,ES,20,EUR,45,15,25
+Netherlands,NL,22,EUR,45,15,25
+Switzerland,CH,30,CHF,50,15,25
+Sweden,SE,250,SEK,50,173,288
+Norway,NO,250,NOK,50,180,300
+Denmark,DK,180,DKK,50,98,163
+Ireland,IE,22,EUR,45,15,25
+Belgium,BE,22,EUR,45,15,25
+Austria,AT,22,EUR,45,15,25
+Portugal,PT,20,EUR,45,15,25
+Finland,FI,22,EUR,50,15,25
+Russia,RU,1500,RUB,60,750,1250
+Turkey,TR,400,TRY,50,210,350
+Saudi Arabia,SA,80,SAR,55,60,100
+United Arab Emirates,AE,80,AED,55,53,88
+Qatar,QA,80,QAR,55,53,88
+South Africa,ZA,367,ZAR,65,270,450
+Brazil,BR,100,BRL,70,78,130
+Mexico,MX,400,MXN,60,150,250
+Argentina,AR,15000,ARS,70,10800,18000
+Chile,CL,25000,CLP,70,11500,19200
+Colombia,CO,90000,COP,70,43500,72500
+Egypt,EG,1010,EGP,60,495,825
+Nigeria,NG,25000,NGN,65,7050,11750
+Kenya,KE,2500,KES,65,1350,2250
+Pakistan,PK,2500,PKR,40,1100,1830
+Bangladesh,BD,1200,BDT,40,630,1050
+Sri Lanka,LK,4000,LKR,40,1350,2250
+Poland,PL,80,PLN,50,33,55
+Czech Republic,CZ,500,CZK,50,270,450
+Hungary,HU,7000,HUF,50,3300,5500
+Romania,RO,90,RON,50,45,75
+Greece,GR,20,EUR,50,15,25
